@@ -1,6 +1,7 @@
 [
   {
     "id": "strike",
+    "name": "Strike",
     "cost": 1,
     "damage": 8
   }
