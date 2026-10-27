@@ -2,7 +2,7 @@
   {
     "id": "strike",
     "name": "Strike",
-    "cost": 1,
-    "damage": 8
+    "cost": 2,
+    "damage": 12
   }
 ]
